@@ -74,21 +74,15 @@ Concluí o ensino médio no Colégio Dom Felipe. Atualmente, curso Análise e De
 
 ### 📊 Estatísticas
 
-<br/>
-
-<img 
-  height="180em" 
-  src="https://github-readme-stats-fast.vercel.app/api?username=dev-jardel13&show_icons=true&theme=github_dark&hide_border=true" 
-/>
-
-<img 
-  height="180em" 
-  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dev-jardel13&layout=compact&theme=github_dark&hide_border=true" 
-/>
-
+<div align="center">
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=dev-jardel13&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dev-jardel13&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
-<br/>
+
+
+
+
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
