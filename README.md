@@ -62,7 +62,7 @@ Concluí o ensino médio no Colégio Dom Felipe. Atualmente, curso Análise e De
 
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Elixir-000000?style=for-the-badge&logo=elixir&logoColor=white" />
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=white" />
 
 </div>
 
