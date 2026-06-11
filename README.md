@@ -4,10 +4,19 @@
 
 
 
-**`Desenvolvedor Backend`**
+**☕ Backend Developer | Java & Spring Boot**
 
-Me chamo Luiz Jardel do Nascimento, tenho 20 anos e sou natural do Ceará.  
-Concluí o ensino médio no Colégio Dom Felipe. Atualmente, curso Análise e Desenvolvimento de Sistemas na Estácio.
+<br/>
+
+
+🇧🇷 Portuguese (Native)
+🇺🇸 English (Learning)
+
+
+My name is Luiz Jardel do Nascimento, and I am a Systems Analysis and Development student from Ceará, Brazil.
+
+I graduated from Colégio Dom Felipe and I am currently pursuing my degree at Estácio University.
+
 
 <br/>
 
@@ -25,6 +34,12 @@ Concluí o ensino médio no Colégio Dom Felipe. Atualmente, curso Análise e De
     height="35" 
     alt="instagram logo"
   />
+  <a href="https://www.linkedin.com/in/luiz-jardel/" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+    height="35"
+  />
+</a>
 </a>
 
 </div>
@@ -35,7 +50,7 @@ Concluí o ensino médio no Colégio Dom Felipe. Atualmente, curso Análise e De
 
 <div align="center">
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies 
 
 <br/>
 
@@ -54,7 +69,7 @@ Concluí o ensino médio no Colégio Dom Felipe. Atualmente, curso Análise e De
 <br/>
 <br/>
 
-### 📚 Atualmente Estudando
+### 📚 Currently Learning
 
 <br/>
 
@@ -72,7 +87,7 @@ Concluí o ensino médio no Colégio Dom Felipe. Atualmente, curso Análise e De
 
 <div align="center">
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=dev-jardel13&show_icons=true&theme=github_dark&hide_border=true" />
