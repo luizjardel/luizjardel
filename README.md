@@ -90,8 +90,8 @@ I graduated from Colégio Dom Felipe and I am currently pursuing my degree at Es
 ### 📊 Statistics
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=dev-jardel13&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dev-jardel13&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=luizjardel&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=luizjardel&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
 
