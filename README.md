@@ -91,7 +91,7 @@ I graduated from Colégio Dom Felipe and I am currently pursuing my degree at Es
 <td width="50%" align="center">
   <h4>GitHub Stats</h4>
   <img 
-    src="https://github-readme-stats-two-beta-28.vercel.app/api?username=&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+    src="https://github-readme-stats-two-beta-28.vercel.app/api?username=luizjardel&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
     alt="GitHub Stats"
   />
 </td>
