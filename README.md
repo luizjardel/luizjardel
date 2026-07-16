@@ -91,7 +91,7 @@ I graduated from Colégio Dom Felipe and I am currently pursuing my degree at Es
 <td width="50%" align="center">
   <h4>GitHub Stats</h4>
   <img 
-    src="https://github-readme-stats-two-beta-28.vercel.app/api?username=luizjardel&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+    src="https://github-readme-stats-two-beta-28.vercel.app/api?username=&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
     alt="GitHub Stats"
   />
 </td>
@@ -105,7 +105,7 @@ I graduated from Colégio Dom Felipe and I am currently pursuing my degree at Es
 <h3>Contribution Graph</h3>
 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=luizjardel&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Luiz Jardel's%20Contribution%20Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=luizjardel&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Jardel's%20Contribution%20Graph"
   alt="Activity Graph"
   width="100%"
 />
