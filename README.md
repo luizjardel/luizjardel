@@ -1,10 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=Luiz%20Jardel&fontSize=50&animation=fadeIn&fontAlignY=40&fontColor=ffffff">
 
+
 <div align="center">
 
 
 
-**☕ Software Engineer | Java & Spring Boot**
+**☕ Backend Developer | Java & Spring Boot**
 
 <br/>
 
@@ -87,18 +88,26 @@ I graduated from Colégio Dom Felipe and I am currently pursuing my degree at Es
 
 <div align="center">
 
+<td width="50%" align="center">
+  <h4>GitHub Stats</h4>
+  <img 
+    src="https://github-readme-stats-two-beta-28.vercel.app/api?username=luizjardel&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+    alt="GitHub Stats"
+  />
+</td>
+
 ### 📊 Statistics
+<img 
+  src="https://streak-stats.demolab.com?user=luizjardel&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"
+  alt="GitHub Streak"
+/>
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=luizjardel&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=luizjardel&layout=compact&theme=github_dark&hide_border=true" />
+<h3>Contribution Graph</h3>
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=luizjardel&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Luiz Jardel's%20Contribution%20Graph"
+  alt="Activity Graph"
+  width="100%"
+/>
+
 </div>
-
-
-
-
-
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
-</p>
