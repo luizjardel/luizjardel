@@ -23,7 +23,7 @@ I graduated from Colégio Dom Felipe and I am currently pursuing my degree at Es
 
 <a href="https://www.youtube.com/@devjardel13" target="_blank">
   <img 
-    src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" 
+    src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" 
     height="35" 
     alt="youtube logo"
   />
@@ -31,13 +31,13 @@ I graduated from Colégio Dom Felipe and I am currently pursuing my degree at Es
 
 <a href="https://www.instagram.com/dev.jardel/" target="_blank">
   <img 
-    src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" 
+    src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" 
     height="35" 
     alt="instagram logo"
   />
   <a href="https://www.linkedin.com/in/luiz-jardel/" target="_blank">
   <img 
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+    src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" 
     height="35"
   />
 </a>
