@@ -30,11 +30,13 @@ I graduated from Colégio Dom Felipe and I am currently pursuing my degree at Es
 </a>
 
 <a href="https://www.instagram.com/dev.jardel/" target="_blank">
+
   <img 
     src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" 
     height="35" 
     alt="instagram logo"
   />
+  
   <a href="https://www.linkedin.com/in/luiz-jardel/" target="_blank">
   <img 
     src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" 
@@ -89,11 +91,15 @@ I graduated from Colégio Dom Felipe and I am currently pursuing my degree at Es
 <div align="center">
 
 <td width="50%" align="center">
+  <img height="180em" src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=luizjardel&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" />
   <h4>GitHub Stats</h4>
   <img 
     src="https://github-readme-stats-two-beta-28.vercel.app/api?username=luizjardel&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
     alt="GitHub Stats"
   />
+
+<br/>
+<br/>
 </td>
 
 ### 📊 Statistics
