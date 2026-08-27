@@ -105,12 +105,6 @@ I graduated from Colégio Dom Felipe and I am currently pursuing my degree at Es
   alt="GitHub Streak"
 />
 
-<h3>Contribution Graph</h3>
 
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=luizjardel&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Jardel's%20Contribution%20Graph"
-  alt="Activity Graph"
-  width="100%"
-/>
 
 </div>
