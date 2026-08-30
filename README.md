@@ -60,6 +60,8 @@ I graduated from Colégio Dom Felipe and I am currently pursuing my degree at Es
 
 <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 
+<img src="https://img.shields.io/badge/React Native-000000?style=for-the-badge&logo=react&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
 
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
@@ -78,6 +80,8 @@ I graduated from Colégio Dom Felipe and I am currently pursuing my degree at Es
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
 
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=white" />
+
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
 
 </div>
 
