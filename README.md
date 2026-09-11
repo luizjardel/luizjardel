@@ -62,12 +62,17 @@ I graduated from Colégio Dom Felipe and I am currently pursuing my degree at Es
 
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
 
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
 <img src="https://img.shields.io/badge/React Native-000000?style=for-the-badge&logo=react&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
 
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
+
+<img src="https://img.shields.io/badge/API REST-000000?style=for-the-badge&logo=postman&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Claude Code-000000?style=for-the-badge&logo=Claude&logoColor=white" />
 
 <br/>
 <br/>
@@ -114,7 +119,12 @@ I graduated from Colégio Dom Felipe and I am currently pursuing my degree at Es
   src="https://streak-stats.demolab.com?user=luizjardel&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"
   alt="GitHub Streak"
 />
+---
+#### Discord Server! 🇧🇷
+#### Support Staff 🇧🇷
 
 
+[![DISCORD SERVER](https://cardzera.audibert.dev/api/1112920281367973900?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&buttonBorderRadius&borderRadius=0&buttonText=Join%20%20dev%20community&t={timestamp})](https://discord.gg/programador)
+---
 
 </div>
