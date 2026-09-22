@@ -85,8 +85,6 @@ I graduated from Colégio Dom Felipe and I am currently pursuing my degree at Es
 
 <br/>
 
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
 
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=white" />
