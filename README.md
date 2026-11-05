@@ -44,6 +44,7 @@ I graduated from Colégio Dom Felipe and I am currently pursuing my degree at Es
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/API_REST-000000?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
 <br/>
