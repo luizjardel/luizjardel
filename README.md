@@ -52,39 +52,40 @@ I graduated from Colégio Dom Felipe and I am currently pursuing my degree at Es
 
 ### 🤖 Languages and Technologies 
 
+#### ⚙️ Back-end
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/API_REST-000000?style=for-the-badge&logo=Postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
 <br/>
 
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+---
+#### 🎨 Front-end
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=Angular&logoColor=white" />
+<br/>
 
-<img src="https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=springboot&logoColor=white" />
-
+---
+#### 🗄️ Database
 <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+<br/>
 
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
-
-<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
-
-<img src="https://img.shields.io/badge/React Native-000000?style=for-the-badge&logo=react&logoColor=white" />
-
+---
+#### ☁️ Infrastructure & Tools
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
 
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-
-<img src="https://img.shields.io/badge/API REST-000000?style=for-the-badge&logo=postman&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Claude Code-000000?style=for-the-badge&logo=Claude&logoColor=white" />
-
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-
-<img src="https://img.shields.io/badge/MongoDb-000000?style=for-the-badge&logo=MongoDb&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-
-<br/>
 <br/>
 
+---
 ### 📚 Currently Learning
 
 <br/>
