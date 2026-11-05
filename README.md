@@ -90,18 +90,13 @@ I graduated from Colégio Dom Felipe and I am currently pursuing my degree at Es
 
 <br/>
 
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=white" />
 
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=Angular&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Fastapi-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 <img src="https://img.shields.io/badge/lINUX-000000?style=for-the-badge&logo=lINUX&logoColor=white" />
 
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-web-services&logoColor=white" />
 
 </div>
 
