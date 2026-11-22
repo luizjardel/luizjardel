@@ -1,121 +1,58 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=Luiz%20Jardel&fontSize=50&animation=fadeIn&fontAlignY=40&fontColor=ffffff">
+<img align="right" src="assets/red-removebg-preview.png" height="190" alt="Red" />
 
-<div align="center">
 
-**☕ Software Engineer | Java & Spring Boot**
+```
+    o8o                          .o8            oooo
+    `"'                         "888            `888
+   oooo  .oooo.   oooo d8b  .oooo888   .ooooo.   888
+   `888 `P  )88b  `888""8P d88' `888  d88' `88b  888
+    888  .oP"888   888     888   888  888ooo888  888
+    888 d8(  888   888     888   888  888    .o  888
+    888 `Y888""8o d888b    `Y8bod88P" `Y8bod8P' o888o
+    888
+.o. 88P
+`Y888P
+```
 
-<br/>
+```
+.----------------------------------------------------------------------.
+| (x) (-) (+)              ~/about.txt                                 |
+|----------------------------------------------------------------------|
+|                                                                      |
+| Systems Analysis and Development student at Estácio,                 |
+| from Ceará, Brazil. Graduated from Colégio Dom Felipe.               |
+|                                                                      |
+| Back-end with Java and Spring Boot. Currently learning               |
+| React, NestJS, Kotlin and AWS.                                       |
+|                                                                      |
+| Portuguese (native), English (learning).                             |
+| -@luizjardel                                                         |
+|                                                                      |
+'----------------------------------------------------------------------'
+```
 
-🇧🇷 Portuguese (Native)  
-🇺🇸 English (Learning)
-
-My name is Luiz Jardel do Nascimento, and I am a Systems Analysis and Development student from Ceará, Brazil.
-
-I graduated from Colégio Dom Felipe and I am currently pursuing my degree at Estácio University.
-
-<br/>
-
-<a href="https://www.youtube.com/@devjardel13" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-</a>
-<a href="https://www.instagram.com/dev.jardel/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-</a>
-<a href="https://www.linkedin.com/in/luiz-jardel/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
-</a>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### 🤖 Languages and Technologies 
-
-<br/>
-
-### ⚙️ Back-end
-<p>
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/API_REST-000000?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
+<p align="center">
+  <img src="assets/charizard-removebg-preview.png" height="180" alt="Charizard" />
+  <img src="assets/Rayquaza-removebg-preview.png" height="180" alt="Rayquaza" />
 </p>
 
-<br/>
+<img src="assets/h-stack.svg" alt="01 Stack" />
 
----
+<img src="assets/stack.svg" alt="Stack" />
 
-### 🎨 Front-end
+<img src="assets/h-social.svg" alt="02 Social media" />
+
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" />
-   <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <a href="https://www.youtube.com/@devjardel13"><img src="assets/t-youtube.svg" alt="YouTube" /></a>
+  <a href="https://www.instagram.com/dev.jardel/"><img src="assets/t-instagram.svg" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/luiz-jardel/"><img src="assets/t-linkedin.svg" alt="LinkedIn" /></a>
 </p>
 
-<br/>
+<img src="assets/h-stats.svg" alt="03 Stats" />
 
----
-
-### 🗄️ Database
 <p>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img height="180" src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?layout=compact&langs_count=8&username=luizjardel&hide_border=true&bg_color=f4efe0&title_color=1c4fd8&text_color=111111&icon_color=1c4fd8" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats-two-beta-28.vercel.app/api?show_icons=true&username=luizjardel&hide_border=true&bg_color=f4efe0&title_color=1c4fd8&text_color=111111&icon_color=1c4fd8" alt="GitHub stats" />
 </p>
 
-<br/>
-
----
-
-### ☁️ Infrastructure & Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</p>
-
-<br/>
-
----
-
-### 📚 Currently Learning
-<p>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJs-000000?style=for-the-badge&logo=nestjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23000000?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express.js&logoColor=white" />
-  
-</p>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### 📊 GitHub Stats & Streak
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=luizjardel&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" />
-<br/><br/>
-<img src="https://github-readme-stats-two-beta-28.vercel.app/api?username=luizjardel&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=luizjardel&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" alt="GitHub Streak" />
-
-</div>
+<img src="https://streak-stats.demolab.com?user=luizjardel&theme=default&hide_border=true&background=f4efe0&ring=1c4fd8&fire=f5c518&currStreakNum=111111&sideNums=111111&currStreakLabel=1c4fd8&sideLabels=1c4fd8&dates=111111" alt="GitHub streak" />
